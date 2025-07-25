@@ -39,4 +39,3 @@ jobs:
           docker tag $REPO:latest $NAME/$REPO:latest
           docker push $NAME/$REPO:latest
 
-# 이번엔 버전 반영 잘 되기를!!!
